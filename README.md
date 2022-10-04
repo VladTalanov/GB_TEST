@@ -4,4 +4,4 @@
 3) Затем мы создаем функцию, в которой делаем массив из строк и символов в элементе массива, которые будем отбирать.
 4) Если условие соблюдается, то выводим те строки которые подходят под условие, если же нет, то проходим цикл сначала, пока не переберем все жлементы массива.
 
-https://app.diagrams.net/](https://app.diagrams.net/#G1oquSmYhPZXcIbekBc3W3vQhReS0LJYMN)
+[https://app.diagrams.net/](https://app.diagrams.net/#G1oquSmYhPZXcIbekBc3W3vQhReS0LJYMN)](https://app.diagrams.net/#G1oquSmYhPZXcIbekBc3W3vQhReS0LJYMN)
